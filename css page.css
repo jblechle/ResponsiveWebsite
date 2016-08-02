@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="css page.css"></head>
+<style>
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline;
+}
+body {background-color: grey}
+    
+h1 {
+	text-decoration: underline;
+	text-align: center;
+    color: orange;
+    margin-left: 100px;
+	font-family:courier;
+	font-size:160%;
+} 
+h2 {
+	text-align:center; background-color:yellow; font-style: italic; font-weight:bold;}
+
+
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="#ArgumentalBaseball.html">Page 1</a></li>
+  <li><a href="#BadCall.html">Page 2</a></li>
+  <li><a href="#LeaguePlay.html">Page 3t</a></li>
+  <li><a href="#page4html.html">Page 4</a></li>
+  <li><a href="#page5.html">Page 5</a></li>
+</ul>
+
+</body>
+</html>
